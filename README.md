@@ -1,4 +1,4 @@
-# Proyecto Integrador - Backend
+# Proyecto Integrador Backend - BACK (E-commerce)
 
 Este es el Backend para la aplicación LAMM. Desarrollado con Node.js y Express, y su función principal es gestionar los datos de los productos a través de una API REST.
 
