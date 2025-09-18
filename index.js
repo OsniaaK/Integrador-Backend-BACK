@@ -1,6 +1,8 @@
-const express = require('express');
-const cors = require('cors');
-let products = require('./products');
+import express from 'express';
+import cors from 'cors';
+import productsData from './products.js';
+
+let products = productsData;
 
 const app = express();
 
